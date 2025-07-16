@@ -14,3 +14,7 @@ A simple and interactive Rock-paper-Scissors game built using HTML, CSS, and Jav
 --- Fun emojis for visual Engagement
 
 --- Lightweight and responsive UI
+
+# Screenshot 🖼️
+
+![Rock Paper Scissors](images/preview.png)
